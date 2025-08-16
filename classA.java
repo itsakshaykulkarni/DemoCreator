@@ -4,6 +4,8 @@ public class classA {
     }
     public void method1(){
         System.out.println("This is class A line 1");
+        System.out.println("This is class A line 1");
+
 
         }
 }
