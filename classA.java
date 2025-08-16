@@ -3,5 +3,5 @@ public class classA {
         System.out.println("This is class A");
     }
     public void method1(){
-         System.out.println("This is class A method 1");
+         System.out.println("This is class A method 1"); }
 }
